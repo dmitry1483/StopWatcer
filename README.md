@@ -1,0 +1,2 @@
+# StopWatcher
+Использован notification manager
